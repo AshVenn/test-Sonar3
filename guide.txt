@@ -1,0 +1,11 @@
+logForm(loginformateur) redirige vers espacForm(espacFormateur:chaque formateur a ses modules auxquels sont assossocies aux groupes) 
+						
+						|
+						|
+						|
+						|
+						|
+						|redirige vers listeNotesStag
+						
+
+
